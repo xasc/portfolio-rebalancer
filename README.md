@@ -1,2 +1,2 @@
-# portfolio-rebalancer
-A web app to simplify portfolio rebalancing.
+# Portfolio Rebalancer
+A web app to make periodic portfolio rebalancing easy.
